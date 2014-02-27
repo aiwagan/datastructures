@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1392097286 source:/home/aiwagan/projects/linkedlistdemo/main.cpp
+	<iostream>
+	"list.h"
+
+1392097051 /home/aiwagan/projects/linkedlistdemo/list.h
+	<algorithm>
+

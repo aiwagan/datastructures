@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393481634 source:/home/aiwagan/projects/treelink/main.cpp
+	<iostream>
+	<list>
+	<vector>
+
