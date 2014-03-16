@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1394520765 source:/home/aiwagan/projects/datastructures/binarytree/main.cpp
+	<iostream>
+	<deque>
+	<climits>
+	<vector>
+

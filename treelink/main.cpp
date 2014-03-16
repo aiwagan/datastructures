@@ -60,10 +60,13 @@ class tree {
     }
 
     void dfs()  {
+
         for (list<tree*>::iterator it=children.begin(); it != children.end(); ++it){
             (*it)->dfs();
         }
+
         cout << retrieve() << endl;
+
     }
 
     void preorder(){
@@ -119,8 +122,9 @@ int main()
     c2->insert(198);
 
     //cout <<  t.size()<< endl;
-    //0t.dfs();
+    t.dfs();
+    //t.bft();
     //t.preorder();
-    t.postorder();
+    //t.postorder();
     return 0;
 }
